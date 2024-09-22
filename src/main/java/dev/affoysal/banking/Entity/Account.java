@@ -1,5 +1,6 @@
 package dev.affoysal.banking.Entity;
 
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
