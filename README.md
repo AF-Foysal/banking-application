@@ -2,8 +2,8 @@
 
 ## Background
 
-This project is a simple banking API that utilizes the Spring framework. It can create accounts, retrieve account(s)
-information, update an account's balance through deposit and withdraw functions, and delete users.
+This project is a backend for a simple banking app that will manage users' bank accounts as well as any deposits and
+withdrawals made to said accounts within the application.
 
 This is one of many projects that will document the progression of my utilization and understanding of the Spring
 framework.
